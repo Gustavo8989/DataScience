@@ -28,12 +28,6 @@ Como deixar o texto pronto para o treinamento
 Outra coisa que é bastente importante no PLN são os 3 niveis de de reconhecimento eles são morfológico, sintático, semântico 
     
     1-) Na análise morfológica as palavras são examinadas para identificar sua forma básica (lematização) e suas características gramaticais como a parte do discurso, gênero, número, tempo verbal, etc.
-
-
-
-
-
-    
     
     2-) Na análise sintática a estrutura gramatical é utilizada para entender o relacionamento entre as palavras e a organização das frases.
     
