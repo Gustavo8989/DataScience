@@ -2,6 +2,9 @@ Conjunto de dados salariais em CSV para regressão linear simples. Ele também f
 
 
 Colunas
+
         #
+        
         Anos de experiência
+        
         Salário
